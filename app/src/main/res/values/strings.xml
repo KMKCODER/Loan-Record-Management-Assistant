@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Loan Record Management Assistant</string>
+    <string name="splash_screen_here">Splash Screen Here</string>
+    <string name="sign_up_here">Sign Up Here</string>
+</resources>
